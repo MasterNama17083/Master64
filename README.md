@@ -37,7 +37,7 @@ But, In Late May 2022, I released this pre-alpha joke hack video following the v
 # Important
 This source code is a fully open source **not** a leak.
 
-~~here we go for' ya doin da beta kids way to get some assets easiler~~ << Comedy Humor :troll:
+~~here we go for' ya doin da beta kids way to get some assets easily~~ << Comedy Humor :troll:
 
 I'm just joking lol
 # Credits:
